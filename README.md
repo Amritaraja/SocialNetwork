@@ -20,7 +20,7 @@ and run it by 'npm run start'
 
 ## Github link
 Repo link: 
-
+https://github.com/Amritaraja/SocialNetwork
 
 
 ## Mock-up
