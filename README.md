@@ -17,12 +17,14 @@ Mongoose
 To run this project, download npm by 'npm i'
 and run it by 'npm run start'
 
+## VIDEO WALK THROUGH 
+
+https://youtu.be/lF_RV_KHghE
+
 
 ## Github link
 Repo link: 
 https://github.com/Amritaraja/SocialNetwork
 
 
-## Mock-up
 
-https://youtu.be/lF_RV_KHghE
